@@ -1,0 +1,19 @@
+# == Database settings ==
+#
+# NOTE: Database must be running in same timezone as the server itself (this is usually already true)
+#
+Connection:	jdbc:mysql://127.0.0.1/xenon_lab?autoReconnect=true&useSSL=false
+Username:	xenon
+Password:	xenon
+
+# The port for the NTP server running on the server
+ntpPortServer: 63786
+# The port for the NTP server running on the client
+ntpPortClient: 63787
+
+# Relay-Server connection settings
+relayPort: 58400
+
+# Other settings
+# Time between commits (in ms)
+betweenCommits: 200

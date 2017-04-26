@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/apacheds-all-2.0.0-M24-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/apacheds-service-2.0.0-M19.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp2-2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp2-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/lombok.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql-connector-java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
